@@ -15,9 +15,9 @@
 #
 
 $(call inherit-product, device/xiaomi/excalibur/device.mk)
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/corvus/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_excalibur
+PRODUCT_NAME := corvus_excalibur
 PRODUCT_DEVICE := excalibur
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := SM7125

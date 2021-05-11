@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_excalibur.mk
+    $(LOCAL_DIR)/corvus_excalibur.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_excalibur-user \
-    aosp_excalibur-userdebug \
-    aosp_excalibur-eng
+    corvus_excalibur-user \
+    corvus_excalibur-userdebug \
+    corvus_excalibur-eng
