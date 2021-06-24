@@ -69,8 +69,8 @@ void load_device_properties() {
 
     if (hwname == "excalibur") {
         set_device_props(
-                "Redmi/excalibur_in/excalibur:10/QKQ1.191215.002/V12.0.1.0.QJXINXM:user/release-keys",
-                "excalibur_in-user 10 QKQ1.191215.002 V12.0.1.0.QJXINXM release-keys",
+                "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys",
+                "redfin-user 11 RQ3A.210605.005 7349499 release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
     }
 }
